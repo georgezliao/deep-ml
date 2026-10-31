@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 5 problems · 1 labs · 0 math
+**10** solved · 9 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,8 +15,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-10-30 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-06-24 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-10-30 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
+| [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-10-31 | [solution](problems/1226-implement-relu-and-leaky-relu) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-10-30 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
+| [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-31 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-10-30 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
+| [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-10-31 | [solution](problems/1227-numerically-stable-softmax) |
+| [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-31 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 
 ## Labs
 

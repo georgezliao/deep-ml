@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:53:25.360Z",
+  "generated_at": "2026-10-31T01:53:27.430Z",
   "items": {
     "problem:1220": {
       "kind": "problem",
@@ -78,6 +78,58 @@
       "last_pushed_at": "2026-06-24T20:14:50.852Z",
       "language": "python",
       "lines": 3
+    },
+    "problem:1224": {
+      "kind": "problem",
+      "id": "1224",
+      "title": "Single Linear Neuron Forward",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1224",
+      "path": "problems/1224-single-linear-neuron-forward",
+      "first_solved_at": "2026-10-31T01:03:44.248Z",
+      "last_pushed_at": "2026-10-31T01:03:44.248Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:1225": {
+      "kind": "problem",
+      "id": "1225",
+      "title": "Two-Layer MLP Forward Pass",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1225",
+      "path": "problems/1225-two-layer-mlp-forward-pass",
+      "first_solved_at": "2026-10-31T01:21:02.723Z",
+      "last_pushed_at": "2026-10-31T01:21:02.723Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:1226": {
+      "kind": "problem",
+      "id": "1226",
+      "title": "Implement ReLU and Leaky ReLU",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1226",
+      "path": "problems/1226-implement-relu-and-leaky-relu",
+      "first_solved_at": "2026-10-31T01:29:18.341Z",
+      "last_pushed_at": "2026-10-31T01:29:18.341Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:1227": {
+      "kind": "problem",
+      "id": "1227",
+      "title": "Numerically Stable Softmax",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1227",
+      "path": "problems/1227-numerically-stable-softmax",
+      "first_solved_at": "2026-10-31T01:51:18.257Z",
+      "last_pushed_at": "2026-10-31T01:51:18.257Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
