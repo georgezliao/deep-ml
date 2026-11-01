@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:53:29.468Z",
+  "generated_at": "2026-11-01T05:34:11.796Z",
   "items": {
     "problem:1220": {
       "kind": "problem",
@@ -141,6 +141,17 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-10-31T01:53:29.467Z",
       "last_pushed_at": "2026-10-31T01:53:29.467Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-11-01T05:34:11.224Z",
+      "last_pushed_at": "2026-11-01T05:34:11.224Z"
     }
   }
 }
